@@ -6,4 +6,4 @@ Various functionalities include searching stats, posting and viewing comments an
 cricketdb.sql.zip contains the database schemas with all the entries. Import it into Mysql to use it.
 
 ## Contributor
-Swapnil Nivendkar - Helped with some UI.
+Swapnil Nivendkar - UI.
